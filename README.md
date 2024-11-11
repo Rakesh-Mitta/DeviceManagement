@@ -14,7 +14,7 @@ Step 2 : Build the project.
 
 Step 3 : Run the application.
 
-             Execute the "./mvnw spring-boot:run"  command.
+             Execute the "mvn spring-boot:run"  command.
 
 Step 4 : Open the browser and type the below specified url for Swagger UI.
 
