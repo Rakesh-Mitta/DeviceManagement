@@ -4,12 +4,16 @@
 
 
 Step 1:
-        Clone/Download the project from github repository into local and unzip.
-               
+        Clone the repository/Download the project from github repository into local and unzip.
+
+
+           To clone execute the "git clone https://github.com/Rakesh-Mitta/DeviceManagement.git" command.
         
 Step 2 : Build the project.
           
-     Go to the project home location(devicemanagement) where the pom.xml is located.
+     Go to the project home location(DeviceManagement) where the pom.xml is located.
+     
+     Execute "cd DeviceManagement" command.
      Execute the "mvn clean install" command.
 
 Step 3 : Run the application.
