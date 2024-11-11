@@ -1,6 +1,6 @@
 # DeviceManagement
 
- Device management API using Spring Boot.
+ Device management API using Spring Boot version 3.3.5 and java 17.
 
 
 Step 1:
