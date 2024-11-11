@@ -4,7 +4,7 @@
 
 
 Step 1:
-        Download the project from github repository into local and unzip.
+        Clone/Download the project from github repository into local and unzip.
                
         
 Step 2 : Build the project.
